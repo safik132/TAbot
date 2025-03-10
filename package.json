@@ -16,6 +16,7 @@
     "@solana/spl-token": "^0.4.9",
     "@solana/web3.js": "^1.98.0",
     "axios": "^1.7.9",
+    "bot-app-sol": "file:",
     "bs58": "^6.0.0",
     "dotenv": "^16.4.7",
     "openai": "^4.80.0",
